@@ -1,0 +1,65 @@
+body, html {
+    height: 100%;
+  }
+
+#navbar{
+   background-color: #032541;
+}
+
+#text{
+    color:white;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+    margin-top: 0;
+}
+
+.card{
+    width: 15rem;
+    text-align: center;
+}
+
+.positioncard{
+    display: flex;
+    justify-content: space-around;
+}
+
+.positionmilieu{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.positionfin{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+
+#main{
+    border-radius: 10px;
+    width: 10rem
+}
+
+#footerimg{
+    width:10rem;
+    
+}
+
+#text{
+    text-decoration: none;
+}
+
+.james{
+    display: flex;
+    justify-content: space-around;
+}
+.tendances{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    background-color:#032541
+}
